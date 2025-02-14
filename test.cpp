@@ -1,1 +1,1 @@
-cout << "my name is omar ";"cout<<"hi"<<endl;"
+cout << "my name is omaromari05 " <<"cout<<"hi"<<endl;"
